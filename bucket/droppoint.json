@@ -9,7 +9,7 @@
     },
     "autoupdate": {
         "url": "https://github.com/GameGodS3/DropPoint/releases/download/v$version/DropPoint-$version-win.zip"
-    }
+    },
     "bin": "DropPoint.exe",
     "shortcuts": [
         [
