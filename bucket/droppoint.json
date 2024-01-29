@@ -1,7 +1,7 @@
 {
     "version": "1.2.1",
     "description": "Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows.",
-    "homepage": "droppoint.netlify.app/",
+    "homepage": "https://droppoint.netlify.app/",
     "license": "GPL-3.0-or-later",
     "url": "https://github.com/GameGodS3/DropPoint/releases/download/v1.2.1/DropPoint-1.2.1-win.zip",
     "checkver": {
