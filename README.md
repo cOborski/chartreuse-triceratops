@@ -5,9 +5,9 @@
 
 ## Y'all found my personal scoop bucket!
 
-| **Manifest** | **Description**                                                                                  | **License**      |
-| :----------- | :----------------------------------------------------------------------------------------------- | :--------------- |
-| droppoint | Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows.| GPL-3.0-or-later |
+| **Manifest** | **Description**                                                                                      | **License**      |
+| :----------- | :--------------------------------------------------------------------------------------------------- | :--------------- |
+| droppoint    | Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows. | GPL-3.0-or-later |
 
 ## How do I install these manifests?
 
