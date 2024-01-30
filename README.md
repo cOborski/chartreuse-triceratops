@@ -5,6 +5,8 @@
 
 ## Y'all found my personal scoop bucket!
 
+I prefer to use software that is both [free and open source](https://www.gnu.org/licenses/license-list.html) but there will be some software included in this bucket that does not meet this criteria. I've included licenses in the table below for reference.
+
 | **Manifest** | **Description**                                                                                      | **License**       | **Autoupdate** |
 | :----------- | :--------------------------------------------------------------------------------------------------- | :---------------- | :------------- |
 | droppoint    | Drag content without having to open side-by-side windows.                                            | GPL-3.0-or-later  | ✅            |
