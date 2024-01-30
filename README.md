@@ -52,4 +52,4 @@ scoop install chartreuse-triceratops/<manifestname>
 2. [scoop-aoks](https://github.com/AntonOks/scoop-aoks)
 3. [Shields.io](https://shields.io/)
 
-[🔝](#Chartreuse Triceratops)
+[🔝](#chartreuse-triceratops)
