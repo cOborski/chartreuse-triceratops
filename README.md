@@ -1,4 +1,4 @@
-# [Chartreuse](https://encycolorpedia.com/7fff00) Triceratops
+# ![Triceratops Icon](/triceratops.png) [Chartreuse](https://encycolorpedia.com/7fff00) Triceratops
 
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0) [![Tests Badge](https://github.com/coborski/chartreuse-triceratops/actions/workflows/ci.yml/badge.svg)](https://github.com/coborski/chartreuse-triceratops/actions/workflows/ci.yml) [![Excavator Badge](https://github.com/coborski/chartreuse-triceratops/actions/workflows/excavator.yml/badge.svg)](https://github.com/coborski/chartreuse-triceratops/actions/workflows/excavator.yml) [![Toy Badge](https://img.shields.io/badge/project%20type-toy-blue)](https://project-types.github.io/#toy)
 
@@ -40,16 +40,17 @@ scoop install chartreuse-triceratops/<manifestname>
 - [] The chatpad-ai manifest does not delete the program's default uninstaller post install
 
 
-## View source:
+## View source
 
 [![cOborski - generic-project-template](https://img.shields.io/static/v1?label=cOborski&message=chartreuse-triceratops&color=green&logo=github)](https://github.com/coborski/chartreuse-triceratops/)
 
 
 ## Credits and references
 
-1. [Scoop](https://scoop.sh/)
-2. [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
-2. [scoop-aoks](https://github.com/AntonOks/scoop-aoks)
-3. [Shields.io](https://shields.io/)
+- [Scoop](https://scoop.sh/)
+- [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
+- [scoop-aoks](https://github.com/AntonOks/scoop-aoks)
+- [Shields.io](https://shields.io/)
+- https://www.flaticon.com/packs/dinosaur
 
 [🔝](#chartreuse-triceratops)

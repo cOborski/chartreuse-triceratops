@@ -11,11 +11,14 @@
     "checkver": {
         "github": "https://github.com/hoppscotch/hoppscotch"
     },
-    "bin": "DropPoint.exe",
+    "autoupdate": {
+        "url": "https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_win_x64.msi"
+    },
+    "bin": "Hoppscotch",
     "shortcuts": [
         [
-            "DropPoint.exe",
-            "DropPoint"
+            "Hoppscotch.exe",
+            "Hoppscotch"
         ]
       ]
 }
