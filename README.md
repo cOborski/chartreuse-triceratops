@@ -47,6 +47,9 @@ scoop install chartreuse-triceratops/<manifestname>
 
 ## Credits and references
 
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+1. [Scoop](https://scoop.sh/)
+2. [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
+2. [scoop-aoks](https://github.com/AntonOks/scoop-aoks)
+3. [Shields.io](https://shields.io/)
+
+[🔝](#Chartreuse Triceratops)
