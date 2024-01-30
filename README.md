@@ -17,6 +17,9 @@ I prefer to use software that is both [free and open source](https://www.gnu.org
 | deepgit      | Git Archaeology Tool.                                           | [NonFree ULA](https://www.syntevo.com/documents/deepgit-license.html) | ✅            |
 | hoppscotch   | Open Source API Development Ecosystem.                          | AGPL-3.0-or-later | ✅            |
 
+## More about this repository
+
+
 ## How do I install these manifests?
 
 First you'll have to have [scoop](https://scoop.sh/) installed, then you can open your [prefered command shell](https://github.com/ScoopInstaller/Scoop/wiki/Why-PowerShell) and use the following command to add this bucket:
