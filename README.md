@@ -31,3 +31,22 @@ scoop install chartreuse-triceratops/<manifestname>
 [Scoop](https://scoop.sh/) is a command-line installer for Windows.
 - [Readme](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file)
 - [Guide](https://scoop.netlify.app/guide/)
+
+
+## Known issues / TODOs
+
+- [] Most of the manifests do not include hashes
+- [] The chatpad-ai manifest does not have the autoupdate property defined
+- [] The chatpad-ai manifest does not delete the program's default uninstaller post install
+
+
+## View source:
+
+[![cOborski - generic-project-template](https://img.shields.io/static/v1?label=cOborski&message=chartreuse-triceratops&color=green&logo=github)](https://github.com/coborski/chartreuse-triceratops/)
+
+
+## Credits and references
+
+1. Projects that inspired you
+2. Related projects
+3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
