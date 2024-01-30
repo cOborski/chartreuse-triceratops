@@ -11,6 +11,7 @@ I prefer to use software that is both [free and open source](https://www.gnu.org
 | :----------- | :--------------------------------------------------------------------------------------------------- | :---------------- | :------------- |
 | droppoint    | Drag content without having to open side-by-side windows.                                            | GPL-3.0-or-later  | ✅            |
 | chatpad-ai   | Free and open source, privacy focused, ChatGPT user-interface.                                       | AGPL-3.0-or-later | ❌            |
+| deepgit      | Git Archaeology Tool.                                                                                | [NonFree ULA](https://www.syntevo.com/documents/deepgit-license.html) | ✅            |
 
 ## How do I install these manifests?
 
