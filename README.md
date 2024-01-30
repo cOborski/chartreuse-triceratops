@@ -6,11 +6,12 @@
 
 I prefer to use software that is both [free and open source](https://www.gnu.org/licenses/license-list.html) but there will be some software included in this bucket that does not meet this criteria. I've included licenses in the table below for reference.
 
-| **Manifest Name** | **Description**                                                                                      | **License**       | **Autoupdate** |
-| :----------- | :--------------------------------------------------------------------------------------------------- | :---------------- | :------------- |
-| droppoint    | Drag content without having to open side-by-side windows.                                            | GPL-3.0-or-later  | ✅            |
-| chatpad-ai   | Free and open source, privacy focused, ChatGPT user-interface.                                       | AGPL-3.0-or-later | ❌            |
-| deepgit      | Git Archaeology Tool.                                                                                | [NonFree ULA](https://www.syntevo.com/documents/deepgit-license.html) | ✅            |
+| **Manifest Name** | **Description**                                            | **License**       | **Autoupdate** |
+| :----------- | :-------------------------------------------------------------- | :---------------- | :------------- |
+| droppoint    | Drag content without having to open side-by-side windows.       | GPL-3.0-or-later  | ✅            |
+| chatpad-ai   | Free and open source, privacy focused, ChatGPT user-interface.  | AGPL-3.0-or-later | ❌            |
+| deepgit      | Git Archaeology Tool.                                           | [NonFree ULA](https://www.syntevo.com/documents/deepgit-license.html) | ✅            |
+| hoppscotch   | Open Source API Development Ecosystem.                          | AGPL-3.0-or-later | ✅            |
 
 ## How do I install these manifests?
 
