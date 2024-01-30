@@ -1,0 +1,21 @@
+{
+    "version": "alpha",
+    "description": "Open Source API Development Ecosystem.",
+    "homepage": "https://hoppscotch.io",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_win_x64.msi"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/hoppscotch/hoppscotch"
+    },
+    "bin": "DropPoint.exe",
+    "shortcuts": [
+        [
+            "DropPoint.exe",
+            "DropPoint"
+        ]
+      ]
+}
