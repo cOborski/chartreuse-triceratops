@@ -1,4 +1,4 @@
-# Chartreuse Triceratops
+# [Chartreuse](https://encycolorpedia.com/7fff00) Triceratops
 
 [![Tests Badge](https://github.com/coborski/chartreuse-triceratops/actions/workflows/ci.yml/badge.svg)](https://github.com/coborski/chartreuse-triceratops/actions/workflows/ci.yml) [![Excavator Badge](https://github.com/coborski/chartreuse-triceratops/actions/workflows/excavator.yml/badge.svg)](https://github.com/coborski/chartreuse-triceratops/actions/workflows/excavator.yml) [![Toy Badge](https://img.shields.io/badge/project%20type-toy-blue)](https://project-types.github.io/#toy)
 
