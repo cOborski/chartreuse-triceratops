@@ -19,6 +19,7 @@ I prefer to use software that is both [free and open source](https://www.gnu.org
 
 ## More about this repository
 
+I made this repository for two reasons; the practical convenience of having a personal scoop bucket, and as a test repository for learning more GitHub features. So, if this project seems a bit over-engineered for something as simple as a personal scoop bucket, that is intentional.
 
 ## How do I install these manifests?
 
