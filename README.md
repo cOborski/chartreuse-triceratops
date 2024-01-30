@@ -5,10 +5,10 @@
 
 ## Y'all found my personal scoop bucket!
 
-| **Manifest** | **Description**                                                                                      | **License**       |
-| :----------- | :--------------------------------------------------------------------------------------------------- | :---------------- |
-| droppoint    | Drag content without having to open side-by-side windows.                                            | GPL-3.0-or-later  |
-| catpad-ai    | Free and open source, privacy focused, ChatGPT user-interface.                                       | AGPL-3.0-or-later |
+| **Manifest** | **Description**                                                                                      | **License**       | **Autoupdate** |
+| :----------- | :--------------------------------------------------------------------------------------------------- | :---------------- | :------------- |
+| droppoint    | Drag content without having to open side-by-side windows.                                            | GPL-3.0-or-later  | ✅            |
+| chatpad-ai   | Free and open source, privacy focused, ChatGPT user-interface.                                       | AGPL-3.0-or-later | ❌            |
 
 ## How do I install these manifests?
 
