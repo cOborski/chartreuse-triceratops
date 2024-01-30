@@ -37,14 +37,14 @@ scoop install chartreuse-triceratops/<manifestname>
 - [Readme](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file)
 - [Guide](https://scoop.netlify.app/guide/)
 
-
+```[tasklist]
 ## Known issues / TODOs
 
 - [ ] Most of the manifests do not include hashes
 - [ ] The chatpad-ai manifest does not have the autoupdate property defined
 - [ ] The chatpad-ai manifest does not delete the program's default uninstaller post install
 - [ ] https://github.com/cOborski/chartreuse-triceratops/issues
-
+```
 
 ## View source
 
