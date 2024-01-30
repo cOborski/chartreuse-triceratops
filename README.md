@@ -43,7 +43,7 @@ scoop install chartreuse-triceratops/<manifestname>
 - [ ] Most of the manifests do not include hashes
 - [ ] The chatpad-ai manifest does not have the autoupdate property defined
 - [ ] The chatpad-ai manifest does not delete the program's default uninstaller post install
-- [ ] Tests fail due to being run on triceratops.png
+- [ ] https://github.com/cOborski/chartreuse-triceratops/issues
 
 
 ## View source
