@@ -1,5 +1,5 @@
 <center>
-<img src="/assets/images/triceratops.png"  width="20%">
+#<img src="/assets/images/triceratops.png"  width="20%">
 
 # [Chartreuse](https://encycolorpedia.com/7fff00) Triceratops
 
