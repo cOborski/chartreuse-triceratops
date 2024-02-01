@@ -11,11 +11,6 @@
     "autoupdate": {
         "url": "https://github.com/jenius-apps/ambie/releases/download/v4.2.1/Ambie_$Version_x64$underscoreARM64.msixbundle"
     },
-    "bin": "Ambie",
-    "shortcuts": [
-        [
-            "Ambie.exe",
-            "Ambie"
-        ]
+    "bin": "Ambie_4.2.1.0_x64_ARM64.msixbundle"
       ]
 }
