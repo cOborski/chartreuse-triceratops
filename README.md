@@ -50,7 +50,7 @@ scoop install chartreuse-triceratops/<manifestname>
 
 ## View source
 
-[![cOborski - generic-project-template](https://img.shields.io/static/v1?label=cOborski&message=chartreuse-triceratops&color=green&logo=github)](https://github.com/coborski/chartreuse-triceratops/)
+[![cOborski/chartreuse-triceratops](https://img.shields.io/static/v1?label=cOborski&message=chartreuse-triceratops&color=green&logo=github)](https://github.com/coborski/chartreuse-triceratops/)
 
 
 ## Credits and references
